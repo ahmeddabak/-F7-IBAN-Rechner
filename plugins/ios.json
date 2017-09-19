@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.verso.cordova.clipboard": {
+            "PACKAGE_NAME": "com.ideenkonzept.ibanrechner"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ideenkonzept.ibanrechner"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ideenkonzept.ibanrechner"
+        }
+    },
+    "dependent_plugins": {}
+}
