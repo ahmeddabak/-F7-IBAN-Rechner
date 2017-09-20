@@ -68,7 +68,7 @@
         <preference name="SplashScreen" value="src/assets/images/splash.png" />
         <preference name="SplashScreenDelay" value="3000" />
         <preference name="SplashScreenBackgroundColor" value="green" />
-        <preference name="ShowSplashScreen" value="false" />
+        <preference name="ShowSplashScreen" value="true" />
         <preference name="SplashScreenWidth" value="600" />
         <preference name="SplashScreenHeight" value="300" />
         <preference name="ShowSplashScreenSpinner" value="false" />

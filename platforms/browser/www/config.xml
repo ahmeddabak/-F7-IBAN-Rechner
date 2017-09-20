@@ -18,10 +18,12 @@
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
     <allow-navigation href="*" />
+    <splash height="2208" src="src/assets/images/splash.png" width="1024" />
     <preference name="SplashScreen" value="src/assets/images/splash.png" />
     <preference name="SplashScreenDelay" value="3000" />
     <preference name="SplashScreenBackgroundColor" value="green" />
-    <preference name="ShowSplashScreen" value="false" />
+    <preference name="ShowSplashScreen" value="true" />
     <preference name="SplashScreenWidth" value="600" />
     <preference name="SplashScreenHeight" value="300" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
 </widget>
