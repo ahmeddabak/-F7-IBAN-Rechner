@@ -43,4 +43,5 @@
     <splash density="xxhdpi" src="src/assets/images/res/screens/android/screen-xxhdpi-portrait.png" />
     <splash density="xxxhdpi" src="src/assets/images/res/screens/android/screen-xxxhdpi-portrait.png" />
     <preference name="loglevel" value="DEBUG" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
 </widget>

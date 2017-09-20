@@ -22,7 +22,7 @@
                                         Schnell und einfach die IBAN berechnen.
                                     </p>
                                 </f7-block>
-                                <f7-list form v-show="!iban">
+                                <f7-list form v-show="!prettyIBAN">
                                     <!-- Select | country -->
                                     <f7-list-item>
                                         <f7-label>Land</f7-label>
@@ -46,7 +46,7 @@
                                     </f7-list-item>
 
                                 </f7-list>
-                                <f7-button big round raised full active v-on:click="calculate" v-show="!iban">IBAN zeigen</f7-button>
+                                <f7-button big round raised full active v-on:click="calculate" v-show="!prettyIBAN">IBAN zeigen</f7-button>
 
 
                                 <f7-list form v-show="prettyIBAN">

@@ -10,7 +10,7 @@
 "D:\IBAN Rechner\platforms\windows\images\StoreLogo.scale-100.png" "images\StoreLogo.scale-100.png"
 "D:\IBAN Rechner\platforms\windows\images\Wide310x150Logo.scale-100.png" "images\Wide310x150Logo.scale-100.png"
 "D:\IBAN Rechner\platforms\windows\www\i-f7-ios.png" "www\i-f7-ios.png"
-"D:\IBAN Rechner\platforms\windows\www\17af8c4d910cd7d41e4f.main.js" "www\17af8c4d910cd7d41e4f.main.js"
+"D:\IBAN Rechner\platforms\windows\www\6871af7d969d81ac3097.main.js" "www\6871af7d969d81ac3097.main.js"
 "D:\IBAN Rechner\platforms\windows\www\cordova-js-src\confighelper.js" "www\cordova-js-src\confighelper.js"
 "D:\IBAN Rechner\platforms\windows\www\cordova-js-src\exec.js" "www\cordova-js-src\exec.js"
 "D:\IBAN Rechner\platforms\windows\www\cordova-js-src\platform.js" "www\cordova-js-src\platform.js"

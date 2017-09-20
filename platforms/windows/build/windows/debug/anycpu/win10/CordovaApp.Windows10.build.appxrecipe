@@ -62,8 +62,8 @@
     <AppxPackagedFile Include="D:\IBAN Rechner\platforms\windows\www\i-f7-ios.png">
       <PackagePath>www\i-f7-ios.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\IBAN Rechner\platforms\windows\www\17af8c4d910cd7d41e4f.main.js">
-      <PackagePath>www\17af8c4d910cd7d41e4f.main.js</PackagePath>
+    <AppxPackagedFile Include="D:\IBAN Rechner\platforms\windows\www\6871af7d969d81ac3097.main.js">
+      <PackagePath>www\6871af7d969d81ac3097.main.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\IBAN Rechner\platforms\windows\www\cordova-js-src\confighelper.js">
       <PackagePath>www\cordova-js-src\confighelper.js</PackagePath>

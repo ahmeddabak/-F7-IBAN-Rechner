@@ -27,5 +27,6 @@
     <icon src="src/assets/images/res/icons/windows/Square310x310Logo.png" target="Square310x310Logo" />
     <splash src="src/assets/images/res/screens/windows/splashscreen.png" target="SplashScreen" />
     <splash src="src/assets/images/res/screens/windows/splashscreenphone.png" target="SplashScreenPhone" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
     <preference name="windows-target-version" value="10.0" />
 </widget>
