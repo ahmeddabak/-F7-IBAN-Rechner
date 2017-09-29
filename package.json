@@ -38,6 +38,7 @@
     },
     "dependencies": {
         "big-integer": "^1.6.25",
+        "com.verso.cordova.clipboard": "D:\\CordovaClipboard-master",
         "cordova-android": "^6.2.3",
         "cordova-browser": "^4.1.0",
         "cordova-ios": "^4.4.0",
@@ -46,8 +47,7 @@
         "cordova-windows": "^5.0.0",
         "framework7": "^1.5.4",
         "framework7-vue": "^0.8.5",
-        "vue": "^2.2.4",
-        "com.verso.cordova.clipboard": "D:\\CordovaClipboard-master"
+        "vue": "^2.2.4"
     },
     "displayName": "IBANRechner",
     "cordova": {
