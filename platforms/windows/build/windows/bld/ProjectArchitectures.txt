@@ -1,1 +1,0 @@
-D:\IBAN Rechner\platforms\windows\CordovaApp.Windows10.jsproj;neutral
